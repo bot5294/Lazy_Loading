@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklazy_loading=self.webpackChunklazy_loading||[]).push([[910],{910:function(a,t,e){e.r(t);e(791);var l=e(184);t.default=function(a){var t=a.src;return(0,l.jsx)("img",{src:t,alt:"Picture",style:{width:"50%"}})}}}]);
+//# sourceMappingURL=910.f44b6f8a.chunk.js.map
